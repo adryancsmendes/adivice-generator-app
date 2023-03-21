@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice Generator App
 
-Essa é uma solução para [Advice Generator App](https://advice-generator-app-steel-xi.vercel.app/). 
+Essa é uma solução para [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub). 
 
 ## Tabela de conteúdos
 
