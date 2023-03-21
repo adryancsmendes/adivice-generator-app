@@ -1,6 +1,6 @@
-# Frontend Mentor - Advice generator app
+# Frontend Mentor - Advice Generator App
 
-Essa é uma solução para [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). 
+Essa é uma solução para [Advice Generator App](https://advice-generator-app-steel-xi.vercel.app/). 
 
 ## Tabela de conteúdos
 
@@ -17,18 +17,18 @@ Essa é uma solução para [Advice generator app](https://www.frontendmentor.io/
 
 ## Visão Geral
 
-O desafio aqui foi construir essa Loopstudios landing page e deixá-lo o mais próximo possível do design. Também me desafiei um pouco mais implementando um theme switcher de light theme para dark theme.
+O desafio aqui foi construir esse Advice Generator App e deixá-lo o mais próximo possível do design e implementar sua funcionalidade.
 
 
 ### Screenshot
 
 
-![](/images/screenshot.png)
+![](src/images/screenshot.png)
 
 
 ### Links
 
-- Live Site URL: [Loopstudios landing page](https://loopstudios-landing-page-swart.vercel.app/)
+- Live Site URL: [Advice Generator App](https://advice-generator-app-steel-xi.vercel.app/)
 
 
 ## Meu processo
@@ -39,24 +39,24 @@ O desafio aqui foi construir essa Loopstudios landing page e deixá-lo o mais pr
 - CSS
 - Flexbox
 - Mobile-first workflow
-- [SASS](https://sass-lang.com/) - SASS (Pré-processador CSS)
+- [React](https://react.dev/) - React (JavaScript Library)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - JavaScript MDN Documentation
 
 
 ### O que eu aprendi
 
-Neste projeto eu pude reforçar meus conhecimentos prévios em HTML, CSS, SASS e JavaScript. Aprendi como, utilizando SASS e JavaScript, implementar a possibilidade da mudança das cores da página de um tema claro para um tema escuro.
+Neste projeto eu pude reforçar meus conhecimentos prévios em HTML, CSS, SASS e JavaScript. Aprendi como utilizar o React para o desenvolvimento da interface e como consumir uma API dentro do React.
 
 
 ### Desenvolvimento contínuo
 
-Pretendo continuar evoluindo minha escrita de código HTML semântico, CSS, utilizar ainda mais pré-processadores CSS para otimização do meu tempo de desenvolvimento. Também tenho como objetivo continuar utilizando o JavaScript para consolidar meu conhecimento nessa linguagem.
+Pretendo continuar evoluindo minha escrita de código HTML semântico e CSS. Também tenho como objetivo continuar utilizando o React para consolidar meu conhecimento nessa biblioteca e fazer projetos cada vez mais complexos.
 
 
 ### Recursos úteis
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - JavaScript MDN Documentation
-
+- [React](https://react.dev/reference/react) - React reference
 
 ## Autor
 
