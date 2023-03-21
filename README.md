@@ -41,6 +41,7 @@ O desafio aqui foi construir esse Advice Generator App e deixá-lo o mais próxi
 - Mobile-first workflow
 - [React](https://react.dev/) - React (JavaScript Library)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - JavaScript MDN Documentation
+- [Advice Slip API](https://api.adviceslip.com/) - Advice Slip JSON API
 
 
 ### O que eu aprendi
@@ -50,7 +51,7 @@ Neste projeto eu pude reforçar meus conhecimentos prévios em HTML, CSS, SASS e
 
 ### Desenvolvimento contínuo
 
-Pretendo continuar evoluindo minha escrita de código HTML semântico e CSS. Também tenho como objetivo continuar utilizando o React para consolidar meu conhecimento nessa biblioteca e fazer projetos cada vez mais complexos.
+Pretendo continuar evoluindo minha escrita de código HTML semântico e CSS. Também tenho como objetivo continuar utilizando o React para consolidar meu conhecimento nessa biblioteca e fazer projetos cada vez mais complexos. Também quero continuar fazendp o consumo de APIs dentro dos meus projetos.
 
 
 ### Recursos úteis
